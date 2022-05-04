@@ -1,16 +1,27 @@
-### Hi there 👋
+### Olá, seja bem vindo! Eu sou **Gabriel** **Yuri**.
 
-<!--
-**GabrielYuriRF0/GabrielYuriRF0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um pouco sobre mim:
+- 🎓 Sou estudante de **Ciências da Computação** da UEPB e estou no segundo período.
+- :technologist: Sou aluno de **iniciação científica** no departamento **NUTES** da UEPB.
+- :blue_book: No momento estou estudando **Java** e **POO**.
+- 🎓 Sou estudante de **Ciências da Computação** na **Universidade Federal de Campina Grande**.
+- :blue_book: No momento estou estudando **Desenvolvimento Web** e **Banco de Dados**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus conhecimentos:
+- :snake: Conhecimento intermediário de **Python**.
+- :copyright: Conhecimento intermediário de **C**.
+- :open_book: Conhecimentos das bibliotecas **Pandas** e **Pygame**.
+- :coffee: Conhecimentos básicos de **Java** e **POO**.
+- :game_die: Noções básicas de **SQLite**.
+- :speaking_head:Possuo nível de inglês **A2**.
+## Minhas Soft Skills:
+- :memo: Alta capacidade de **organização** e **planejamento**.
+- :pencil2: **Facilidade** em **aprender** coisas novas.
+- :busts_in_silhouette: Desenvoltura ao **trabalhar em equipe**.
+ ## Entre em contato comigo por:
+  
+<div> 
+  <a href="https://www.linkedin.com/in/gabriel-yuri-18044b1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </a> 
+  <a href = "mailto:gabriel.yuri1020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://discord.gg/rQRnb2J6N8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
