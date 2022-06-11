@@ -1,11 +1,10 @@
 ### Olá, seja bem vindo! Eu sou **Gabriel** **Yuri**.
 
 ## Um pouco sobre mim:
-- 🎓 Sou estudante de **Ciências da Computação** da UEPB e estou no segundo período.
-- :technologist: Sou aluno de **iniciação científica** no departamento **NUTES** da UEPB.
-- :blue_book: No momento estou estudando **Java** e **POO**.
-- 🎓 Sou estudante de **Ciências da Computação** na **Universidade Federal de Campina Grande**.
+- 🎓 Sou estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande**.
 - :blue_book: No momento estou estudando **Desenvolvimento Web** e **Banco de Dados**.
+
+
 
 ## Meus conhecimentos:
 - :snake: Conhecimento intermediário de **Python**.
