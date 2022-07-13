@@ -10,7 +10,7 @@
 - :snake: Conhecimento intermediário de **Python**.
 - :copyright: Conhecimento intermediário de **C**.
 - :open_book: Conhecimentos das bibliotecas **Pandas** e **Pygame**.
-- :coffee: Conhecimentos básicos de **Java** e **POO**.
+- :coffee: Conhecimentos intermediários em **Java** e **POO**.
 - :game_die: Noções básicas de **SQLite**.
 - :speaking_head:Possuo nível de inglês **A2**.
 ## Minhas Soft Skills:
