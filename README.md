@@ -11,6 +11,7 @@
 - :snake: Conhecimento de **Python**.
 - :copyright: Conhecimento de **C**.
 - :game_die: Noções básicas de **SQLite**.
+- 📚 Meu nível de inglês: **B2**.
 
 ## Minhas Soft Skills:
 - :memo: Alta capacidade de **organização** e **planejamento**.
