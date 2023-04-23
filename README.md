@@ -5,12 +5,12 @@
 - 💻 Membro da **empresa Jr CodeX**, atuando no setor de **negócios** e como desenvolvedor **Front End** e **Back End**.
 - :blue_book: No momento estou estudando **Desenvolvimento Web**.
 
-## Meus conhecimentos:
-- :coffee: Conhecimento de **Java**.
-- 🌐 Conhecimento de **JavaScript**.
-- :snake: Conhecimento de **Python**.
+## Minhas Hard Skills:
+- 🌐 **HTML**, **CSS** e **JavaScript**.
+- :game_die: **MongoDB** e **SQL**.
+- :coffee: **Java**.
+- :snake: **Python**.
 - :copyright: Conhecimento de **C**.
-- :game_die: Noções básicas de **SQLite**.
 - 📚 Meu nível de inglês: **B2**.
 
 ## Minhas Soft Skills:
