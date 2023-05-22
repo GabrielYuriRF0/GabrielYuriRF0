@@ -7,13 +7,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-the-badge&logo=haskell&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-the-badge&logo=c&logoColor=white)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-the-badge&logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-the-badge&logo=c&logoColor=white)
+
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
