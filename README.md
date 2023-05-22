@@ -24,7 +24,7 @@
 - :pencil2: **Facility** to **learn** new things.
 - :busts_in_silhouette: Resourcefulness when **working as a team**.
 
- ## Contact me:  
+ ## ✉️ Contact me:  
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-yuri-18044b1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </a> 
