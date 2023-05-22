@@ -1,16 +1,23 @@
-### Olá, seja bem vindo! Eu sou **Gabriel** **Yuri**.
+## 👨‍💻 About me:
+- 🎓 I'm a **Computer Science** student at **Federal University of Campina Grande**.
+- 💻 I am a member of the **Jr CodeX company**, working in the **business** sector and as a **front end** web developer.
 
-## Um pouco sobre mim:
-- 🎓 Sou estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande**.
-- 💻 Sou membro da **empresa Jr CodeX**, atuando no setor de **negócios** e como desenvolvedor web **Front End** e **Back End**.
+## 💻 My Hard Skills:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## Minhas Hard Skills:
-- 🌐 **HTML**, **CSS** e **JavaScript**.
-- :game_die: **MongoDB** e **SQL**.
-- :coffee: **Java**.
-- :snake: **Python**.
-- :copyright: Conhecimento de **C**.
-- 📚 Meu nível de inglês: **B2**.
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-the-badge&logo=Trello&logoColor=white)
+
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-the-badge&logo=haskell&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-the-badge&logo=c&logoColor=white)
 
 ## Minhas Soft Skills:
 - :memo: Alta capacidade de **organização** e **planejamento**.
