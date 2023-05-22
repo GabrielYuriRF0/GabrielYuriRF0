@@ -2,8 +2,7 @@
 
 ## Um pouco sobre mim:
 - 🎓 Sou estudante de **Ciência da Computação** na **Universidade Federal de Campina Grande**.
-- 💻 Membro da **empresa Jr CodeX**, atuando no setor de **negócios** e como desenvolvedor **Front End** e **Back End**.
-- :blue_book: No momento estou estudando **Desenvolvimento Web**.
+- 💻 Sou membro da **empresa Jr CodeX**, atuando no setor de **negócios** e como desenvolvedor web **Front End** e **Back End**.
 
 ## Minhas Hard Skills:
 - 🌐 **HTML**, **CSS** e **JavaScript**.
