@@ -1,6 +1,6 @@
 ## 👨‍💻 About me:
 - 🎓 I'm a **Computer Science** student at **Federal University of Campina Grande**.
-- 💻 I am a developer at the **Information Systems Laboratory**.
+- 💻 I am a full stack developer at the **Information Systems Laboratory**.
 
 ## 💻 My Hard Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
