@@ -32,5 +32,4 @@
   </a> 
   <a href = "mailto:gabriel.yuri1020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://discord.gg/rQRnb2J6N8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-the-badge&logo=discord&logoColor=white" target="_blank">
-  <a href="https://instagram.com/gabriel_yuri_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
 </div>
