@@ -1,6 +1,6 @@
 ## 👨‍💻 About me:
 - 🎓 I'm a **Computer Science** student at **Federal University of Campina Grande**.
-- 💻 I'm a **full stack developer** at the **Information Systems Laboratory(LSI)**. In addition to web development, I work with **data analysis** and **geoprocessing**.
+- 💻 I'm a **full stack developer** at the **Information Systems Laboratory (LSI)**. In addition to web development, I work with **data analysis** and **geoprocessing**.
 
 ## 💻 My Hard Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
