@@ -1,6 +1,6 @@
 ## 👨‍💻 About me:
+- 💻 I'm a **software developer** at the **Laboratório de Sistemas de Informação (LSI) and Tribunal de Contas do Estado do Acre (TCE-AC)**. In addition to web development, I work with **Data Analysis**, **Business Intelligence**, **Database**, **Geoprocessing** and **ETL**.
 - 🎓 I'm a **Computer Science** student at **Federal University of Campina Grande**.
-- 💻 I'm a **full stack developer** at the **Information Systems Laboratory (LSI)**. In addition to web development, I work with **data analysis** and **geoprocessing**.
 
 ## 💻 My Hard Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-the-badge&logo=html5&logoColor=white)
@@ -35,5 +35,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-yuri-18044b1b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </a> 
-  <a href = "mailto:gabriel.yuri1020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielyurisocial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
